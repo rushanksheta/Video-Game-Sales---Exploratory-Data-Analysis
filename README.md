@@ -1,6 +1,6 @@
 # Video-Game-Sales---Exploratory-Data-Analysis
 
-a dataset containing information on more than 16,000 video games released between 1980 and 2016 was analyzed. The primary objectives were to understand video game market trends, consumer behavior, and the impact of various factors on sales.
+A dataset containing information on more than 16,000 video games released between 1980 and 2016 was analyzed. The primary objectives were to understand video game market trends, consumer behavior, and the impact of various factors on sales.
 
 The analysis revealed crucial insights into the video game industry, including dominant gaming platforms like PS and Nintendo, popular genres such as Action and Sports, and top-performing publishers like Nintendo, Electronic Arts, and Activision. Notably, Nintendo experienced a decline in sales, while Electronic Arts surpassed them during specific years. The study also highlighted the significant influence of critic scores on global sales compared to user scores.
 
